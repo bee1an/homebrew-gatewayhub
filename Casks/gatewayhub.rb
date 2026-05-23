@@ -1,6 +1,6 @@
 cask "gatewayhub" do
-  version "0.0.6-beta.3"
-  sha256 "049d2dfdf82d1c1fc1b75abf799d12c02d4ed6ad96ba2fc5c09a59e4e222cb63"
+  version "0.0.6"
+  sha256 "565fd7c76d33503ec6d33e392636e1ce9fd752f0def17720f8ea2d454ad15348"
 
   url "https://github.com/bee1an/GatewayHub/releases/download/v#{version}/gatewayhub-#{version}.dmg"
   name "GatewayHub"
